@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="embedorganstep">
+    <file>images/utility.png</file>
+  </qresource>
+</RCC>
